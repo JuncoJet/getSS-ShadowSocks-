@@ -2,7 +2,7 @@
 #coding=utf-8
 import requests
 from bs4 import BeautifulSoup
-for i in range(140,250):
+for i in range(169,250):
     url="http://free.818bbs.cn/index.php?main_page=domain&id=%d"%i
     r=requests.get(url)
     t=r.text

@@ -7,7 +7,7 @@
 
 -
 
-* How to run it
+* How to use it
 
 You must install `BeautifulSoup` and `requests` first.
 
@@ -15,3 +15,15 @@ You must install `BeautifulSoup` and `requests` first.
 pip install BeautifulSoup4
 pip install requests
 ```
+---
+# checkSS-ShadowSocks-
+
+* it's a simple tool for check ShadowSocks servers.
+
+-
+![checkss]()
+
+-
+* How to use it
+
+Copy `checkss.py` to your configure path of ShadowSocks.You can edit the python script if make sure the configure file name.
