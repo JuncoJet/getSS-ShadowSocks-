@@ -1,9 +1,9 @@
-#getss
+# getSS-ShadowSocks-
 
 * it's a simple tool for get ShadowSocks servers.
 
 -
-![snapshot]()
+![snapshot](https://raw.githubusercontent.com/JuncoJet/getSS-ShadowSocks-/master/snapshot.gif)
 
 -
 
